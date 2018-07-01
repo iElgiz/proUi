@@ -1,0 +1,105 @@
+.salam{
+    background: rgb(49,56,84);
+    height: 50px;
+    position: relative;
+}
+
+.salam:hover{
+    background: #1bbae1;
+    cursor: pointer;
+}
+
+.saol{
+    background: rgb(249,250,252);
+}
+
+.salam span{
+    position: absolute;
+    left: 60px;
+    line-height: 3;
+    color:white;
+}
+
+.bar {
+    position: absolute;
+    left: 0;
+    width: 50px;
+}
+
+.bar i {
+    line-height: 3;
+}
+
+.setting {
+    width: 50px;
+    position: absolute;
+    left: 50px;
+}
+
+.setting i {
+    line-height: 3;
+}
+
+.setting :hover{
+    background: #1bbae1;
+    cursor: pointer;
+}
+
+.bar :hover{
+    background: #1bbae1;
+    cursor: pointer;
+}
+
+.share {
+    position: absolute;
+    right: 95px;
+    width: 50px;
+    line-height: 3;
+}
+
+.share :hover {
+    background: #1bbae1;
+    cursor: pointer;
+}
+
+.profile{
+    width: 96px;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+}
+
+.photo {
+    width: 42px;
+    height: 80%;
+    position: absolute;
+    right: 34px;
+    border-radius: 50px;
+    top: 4px;
+    border: 2px solid white;
+}
+
+.photo img {
+    max-width: 100%;
+    border-radius: 23px;
+}
+
+.profile i {
+    position: absolute;
+    right: 22px;
+    top: 17px;
+    color: #80869c;
+}
+
+.profile:hover {
+    background: #1bbae1;
+    cursor: pointer;
+}
+.dashboard-header{
+    height: 247px;
+}
+
+.dashboard-header img{
+    position: absolute;
+    left: 0;
+}
